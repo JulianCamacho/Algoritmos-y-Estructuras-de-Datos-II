@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/FacadePatternExample.dir/main.cpp.o  -o FacadePatternExample 

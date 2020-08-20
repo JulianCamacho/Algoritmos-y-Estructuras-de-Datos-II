@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/julian_camacho/Documentos/Algoritmos y Estructuras de Datos II/SearchAlgorithmsCpp/AlgorithmsCpp/BinarySearchCpp.h
+bits/stdc++.h
+-
+
+/home/julian_camacho/Documentos/Algoritmos y Estructuras de Datos II/SearchAlgorithmsCpp/AlgorithmsCpp/InterpolationSearchCpp.h
+
+/home/julian_camacho/Documentos/Algoritmos y Estructuras de Datos II/SearchAlgorithmsCpp/AlgorithmsCpp/SequencialSearchCpp.h
+
+/home/julian_camacho/Documentos/Algoritmos y Estructuras de Datos II/SearchAlgorithmsCpp/main.cpp
+iostream
+-
+AlgorithmsCpp/BinarySearchCpp.h
+/home/julian_camacho/Documentos/Algoritmos y Estructuras de Datos II/SearchAlgorithmsCpp/AlgorithmsCpp/BinarySearchCpp.h
+AlgorithmsCpp/SequencialSearchCpp.h
+/home/julian_camacho/Documentos/Algoritmos y Estructuras de Datos II/SearchAlgorithmsCpp/AlgorithmsCpp/SequencialSearchCpp.h
+AlgorithmsCpp/InterpolationSearchCpp.h
+/home/julian_camacho/Documentos/Algoritmos y Estructuras de Datos II/SearchAlgorithmsCpp/AlgorithmsCpp/InterpolationSearchCpp.h
+

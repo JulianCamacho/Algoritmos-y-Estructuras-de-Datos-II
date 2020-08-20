@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/julian_camacho/Documentos/Algoritmos y Estructuras de Datos II/FacadePatternExample/main.cpp
+iostream
+-
+src/Facade.h
+/home/julian_camacho/Documentos/Algoritmos y Estructuras de Datos II/FacadePatternExample/src/Facade.h
+
+/home/julian_camacho/Documentos/Algoritmos y Estructuras de Datos II/FacadePatternExample/src/Facade.h
+Subsystem.h
+/home/julian_camacho/Documentos/Algoritmos y Estructuras de Datos II/FacadePatternExample/src/Subsystem.h
+
+/home/julian_camacho/Documentos/Algoritmos y Estructuras de Datos II/FacadePatternExample/src/Subsystem.h
+iostream
+-
+

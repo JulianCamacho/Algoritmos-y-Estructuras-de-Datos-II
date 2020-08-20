@@ -1,0 +1,3 @@
+/home/julian_camacho/Documentos/Algoritmos y Estructuras de Datos II/FacadePatternExample/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/julian_camacho/Documentos/Algoritmos y Estructuras de Datos II/FacadePatternExample/cmake-build-debug/CMakeFiles/FacadePatternExample.dir
+/home/julian_camacho/Documentos/Algoritmos y Estructuras de Datos II/FacadePatternExample/cmake-build-debug/CMakeFiles/edit_cache.dir
